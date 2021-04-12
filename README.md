@@ -1,2 +1,2 @@
 # websocket_rabbitmq
-SpringBoot integrates the WebSocket STOMP protocol RabbitMQ as a message broker
+基于Springboot、websocket、rabbitmq实现的简单聊天系统
