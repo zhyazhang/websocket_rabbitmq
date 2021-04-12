@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9a4dfe6-101e-4bf6-abca-b918fabe0473" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="All" color="caeace" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\maven\Repository" />
+        <option name="mavenHome" value="D:/Program Files/maven/maven" />
+        <option name="userSettingsFile" value="D:\Program Files\maven\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectId" id="1mVLow8qK5P59sFXC1VZVCHWZzj" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRabbitMQ.testFanout">
+    <configuration name="TestRabbitMQ.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lan.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitMQ.testFanout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lan.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lan.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lan.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="testFanout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq_springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.lan.RabbitmqSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRabbitMQ.testFanout" />
+        <item itemvalue="JUnit.TestRabbitMQ.test1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9a4dfe6-101e-4bf6-abca-b918fabe0473" name="Default Changelist" comment="" />
+      <created>1609573989675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609573989675</updated>
+      <workItem from="1609573995953" duration="2817000" />
+      <workItem from="1609721097727" duration="339000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1879" height="291" key="GridCell.Tab.0.bottom" timestamp="1609577982862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609577982862" />
+    <state width="1879" height="291" key="GridCell.Tab.0.center" timestamp="1609577982862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609577982862" />
+    <state width="1879" height="291" key="GridCell.Tab.0.left" timestamp="1609577982862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609577982862" />
+    <state width="1879" height="291" key="GridCell.Tab.0.right" timestamp="1609577982862">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1879" height="291" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609577982862" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1609574632139">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1609574632139" />
+  </component>
+</project>

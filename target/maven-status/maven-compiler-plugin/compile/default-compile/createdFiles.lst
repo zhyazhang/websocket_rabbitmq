@@ -1,0 +1,3 @@
+com\lan\fanout\FanoutConsumer.class
+com\lan\RabbitmqSpringbootApplication.class
+com\lan\hello\HelloConsumer.class
